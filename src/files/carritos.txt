@@ -1,0 +1,33 @@
+[
+	{
+		"id": 1,
+		"timestamp": 1658863039337,
+		"productos": [
+			{
+				"id": 2,
+				"timestamp": 1649871648597,
+				"nombre": "Contigo Autoseal",
+				"descripcion": "Autoseal, 5 hrs hot, 12 hrs cold, leak & spill proof.",
+				"codigo": "A0002",
+				"foto": "https://www.vasotermico.com/wp-content/uploads/2018/12/vaso-termico-autoseal-contigo-west-loop.jpg",
+				"precio": "9950.99",
+				"stock": "33"
+			},
+			{
+				"id": 4,
+				"timestamp": 1649871794692,
+				"nombre": "Taza blanca grande",
+				"descripcion": "Taza blanca para sublimar grande",
+				"codigo": "T0055",
+				"foto": "https://sublitextil.com.ar/wp-content/uploads/2019/01/taza-plastica-polymer.jpg",
+				"precio": "550",
+				"stock": "115"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"timestamp": 1658871340217,
+		"productos": []
+	}
+]

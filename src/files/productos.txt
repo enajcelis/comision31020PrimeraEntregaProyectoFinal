@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"timestamp": 1649871756058,
+		"nombre": "Mouse Logitech",
+		"descripcion": "Bluetooth, ligero. Color: gris y negro.",
+		"codigo": "A0001",
+		"foto": "http://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/refreshed-g203/g203-hero.png",
+		"precio": 1250.99,
+		"stock": 10
+	},
+	{
+		"id": 2,
+		"timestamp": 1649871648597,
+		"nombre": "Contigo Autoseal",
+		"descripcion": "Autoseal, 5 hrs hot, 12 hrs cold, leak & spill proof.",
+		"codigo": "A0002",
+		"foto": "https://www.vasotermico.com/wp-content/uploads/2018/12/vaso-termico-autoseal-contigo-west-loop.jpg",
+		"precio": 9950.99,
+		"stock": 33
+	},
+	{
+		"id": 3,
+		"timestamp": 1649871710522,
+		"nombre": "Taza blanca",
+		"descripcion": "Taza blanca para sublimar pequeña",
+		"codigo": "T0001",
+		"foto": "https://sublitextil.com.ar/wp-content/uploads/2019/01/taza-plastica-polymer.jpg",
+		"precio": 400,
+		"stock": 223
+	},
+	{
+		"id": 4,
+		"timestamp": 1658869300801,
+		"nombre": "Taza blanca grande",
+		"descripcion": "Taza blanca para sublimar grande",
+		"codigo": "T0055",
+		"foto": "https://sublitextil.com.ar/wp-content/uploads/2019/01/taza-plastica-polymer.jpg",
+		"precio": 550,
+		"stock": 116
+	},
+	{
+		"id": 5,
+		"timestamp": 1658871262837,
+		"nombre": "Mousepad negro",
+		"descripcion": "Mousepad negro, de gel, resistente 100%.",
+		"codigo": "PT0002",
+		"foto": "https://cdn.pixabay.com/photo/2015/05/31/12/09/technology-791423_960_720.jpg",
+		"precio": "2999.99",
+		"stock": "99"
+	}
+]
